@@ -6,6 +6,7 @@
 > I have always sought the most powerful languages. For me, the most important aspect of “power” is programmer productivity, and this is predominantly determined by simplicity and clarity. So I seek languages that emphasize simplicity and clarity above all. **I am very aware of the cognitive overhead of language features, and the limitations of the human mind in managing complexity. The more of the mind that is used on arbitrary complexity, the less is available to solve the problems at hand.** Thus, I seek languages that don’t force the programmer to jump through arbitrary complexity hoops in order to compensate for language decisions that were made for reasons other than “simplest for the programmer.” I’ve found that once I discover the compromises and what they cost – and especially when they cost more than the language benefits, in terms of programmer time and effort – I start losing interest in that language.
 
 其主要观点是：
+
 1. 生产力是衡量一门语言的核心标准。
 1. 生产力主要由语言的简洁性、清晰性决定。
 1. 在管理复杂性方面，人脑存在局限。语言本身应尽可能少地增加认知负担，开发人员在语言本身上消耗的认知能力越多，其专注于解决问题的认知能力越少。
@@ -19,6 +20,7 @@ C++本身无官方文档、无官方教程，同样是C++程序员，写出来�
 
 ### 2. 声明与实现分离：服务于编译器，而非人
 头文件机制一直是C++被诟病最多的地方，让我们看看.h与.cpp分离给开发人员带来了哪些认知负担：
+
 1. **头文件 guard**。ifndef/define/endif几乎是每个头文件的标配，然而这些工作只是为了能够编译通过，为编译器扫清障碍。
 2. **代码冗余**。头文件中的函数声明，都要复制一份到cpp文件中。为了实现一个很简单的功能，不得不写一堆boiler plate代码。
 3. **冗长的include列表**。面向对象中，整个程序被分割成一个一个的类，稍微复杂的程序都会同时用到很多类，尤以基础库中的类使用最为频繁，而它们几乎被include进每一个cpp文件。
@@ -32,6 +34,7 @@ C++本身无官方文档、无官方教程，同样是C++程序员，写出来�
 在智能指针出现以后，只要想清楚对象的所有权（具有独占性的对象使用unique_ptr，被多人共享的对象使用shared_ptr），现代C++程序就不再需要手动delete，基本杜绝了memroy leak类问题。
 
 而导致segment fault比较常见的两种bug是：
+
 1. 误用野指针
 2. 底层直接操作内存的代码（即unsafe代码）存在bug
 
@@ -40,12 +43,14 @@ C++本身无官方文档、无官方教程，同样是C++程序员，写出来�
 至此，智能指针的引入看起来完美的解决了两类常见的内存错误，然而事实并非如此。在C++中，智能指针以库的形式存在，与语言本身无关。也就是说，开发人员即使写出了明显存在bug的智能指针用法，编译器也会绿灯放行，毕竟没有发现语法错误。等到程序上线运行后，因内存问题导致程序崩溃，此时的调查成本已经成十倍百倍的放大。这主要是因为由内存问题导致的程序崩溃，其崩溃点（coredump）往往非第一现场，很多时候都是崩溃之前写乱的内存导致后面的程序执行出错，进而触发程序崩溃，根据一个滞后的崩溃点反推出第一现场，谈何容易？
 
 如果不幸遇到这么棘手的内存问题，并没有什么容易的解决办法，我一般的解决思路如下：
+
 1. Code Review。最朴实的办法，往往有奇效。
 1. 如果容易重现，用valgrind运行，valgrind的设计理念只会误报，不会漏报。使用valgrind运行问题程序的缺点是严重降低程序运行性能，如果是由一些多线程竞争条件下导致的内存问题，很可能因为在valgrind框架下程序运行变慢而无法复现。
 1. 如果不易复现，还可以通过试错法。学习进程的内存布局、熟悉业务逻辑，在怀疑的代码路径上加内存保护（mprotect(2)），以期反向追踪到第一现场。
 
 **总结**
 最初，C++将内存管理的责任完全交给开发人员；随后，以库的形式引入智能指针，实现了半自动的内存管理。之所以称为半自动主要是因为智能指针以库的形式存在，并未与语言进行整合，导致本可以在编译期发现的内存问题被隐藏，直到运行时才暴露出来。半自动的表现如：
+
 1. 虽然提供智能指针，依然可以使用原始的new/delete管理内存。
 1. 已经将所有权转移出去的unique_ptr，依然可以被使用。
 
@@ -63,6 +68,7 @@ C++的标准库实在太简陋了，在我看来，标准委员会对标准库�
 
 ### 2. 缺少标准化的工程实践
 要想完成一个工程项目，光有编程语言是不够的，还需要各种周边工具及规范：
+
 1. **代码结构规范**：如何组织内部代码，如何组织第三方代码。
 1. **编码风格规范**：易于他人阅读和理解。
 1. **构建工具/依赖管理工具**：持续集成，持续交付。
