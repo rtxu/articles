@@ -1,0 +1,8 @@
+
+env = Environment(CCFLAGS = '-g -std=c++11')
+
+env.SharedLibrary(
+    target = "segfault",
+    source = "segfault.cpp",
+)
+
