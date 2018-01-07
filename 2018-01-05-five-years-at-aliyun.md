@@ -52,5 +52,6 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU1NjAxODFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ1ODczODAsLTE2MzU1NjAxODFdfQ
+==
 -->
