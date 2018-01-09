@@ -20,7 +20,7 @@
  * 不了解分布式系统的技术难点、为什么当前如此架构，就找资深的工程师讨教，找到信息的源头，参照自己所处的阶段，逐步补齐知识性的缺口。
  * ......
 
-现在回想起这段日子，那种「每天都在成长」的感觉依然历历在目，而gongxian
+现在回想起这段日子，那种「每天都在成长」的感觉依然历历在目，而gongxianchu
 
 环境、信息获取、学习能力
 
@@ -65,5 +65,6 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNjc5NDUyLC0xNjM1NTYwMTgxXX0=
+eyJoaXN0b3J5IjpbLTIwMzE0NDk4MzYsLTE2MzU1NjAxODFdfQ
+==
 -->
