@@ -37,7 +37,7 @@
 > 
 > 对于一个人来说，最理想的状态是处于“学习区”，学习具有适当挑战性的东西， 一段时间后，“学习区”会慢慢变为“舒适区”， “舒适区”越变越大， 而一部分的“恐慌区” 也会相应变成“学习区”。
 
-我之所以能获得，最重要的原因是处于「学习区」。
+我之所以能获得gao，最重要的原因是处于「学习区」。
 
 其次是**信息获取能力**。
 
@@ -75,5 +75,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjM4NTgyLC0xNjM1NTYwMTgxXX0=
+eyJoaXN0b3J5IjpbMTQ2MjUwNjEzMywtMTYzNTU2MDE4MV19
 -->
