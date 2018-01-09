@@ -52,7 +52,7 @@
 
 虽然我现在分析的头头是道，但当时作为「当局者」，深陷在潜意识制造的情绪旋涡里无法自拔，是在各种内力外力机缘巧合的相互作用下，才侥幸逃出深渊。
 
-# Level
+# Level Up
 
 ## 从价值感缺失到重获价值感
 低头赶路太多，抬头看天太少
@@ -61,5 +61,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NzE2MjAsLTE2MzU1NjAxODFdfQ==
+eyJoaXN0b3J5IjpbLTg4NjA5NzA5OSwtMTYzNTU2MDE4MV19
 -->
