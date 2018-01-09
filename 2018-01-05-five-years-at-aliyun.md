@@ -22,11 +22,11 @@
 
 现在回想起这段日子，那种「每天都在成长」的感觉依然历历在目，我将其归功于三个方面的原因。
 
-其一是**环境**。
+首先是**环境**。
 
-其二是**信息获取能力**。
+其次是**信息获取能力**。
 
-其三是**学习能力**。
+最后是**学习能力**。
 
 环境、信息获取、学习能力
 
@@ -71,5 +71,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMTk1ODYzLC0xNjM1NTYwMTgxXX0=
+eyJoaXN0b3J5IjpbLTc4MzUzNDk2MSwtMTYzNTU2MDE4MV19
 -->
