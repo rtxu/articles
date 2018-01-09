@@ -39,8 +39,8 @@
 
 我之所以能获得高速成长，与「**外部环境恰好处于我的学习区**」密不可分。
 外部环境提供丰富的问题
-大公司肯花时间和精力培养应届生，能够做到因材施教，使得不至于进入 panic zone
-
+学习区保证。大公司肯花时间和精力培养应届生，能够做到因材施教，使得不至于进入 panic zone
+新手村里更多是经验性问题，不需要童子功，具备「高速成长」的可能性。
 
 其次是**信息获取能力**。
 
@@ -76,5 +76,6 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDU3NzI0NSwtMTYzNTU2MDE4MV19
+eyJoaXN0b3J5IjpbLTE5MTI5MTkyNzIsLTE2MzU1NjAxODFdfQ
+==
 -->
