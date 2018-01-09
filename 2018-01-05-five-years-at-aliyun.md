@@ -22,9 +22,7 @@
 
 总之，就是利用多年积累的信息获取和学习能力，依赖大学期间扎实的计算机理论基础和专业知识，实现快速学习。在工作中，逢山开路、遇水架桥，以自身可以感受到的进化速度快速迭代，与此同时，夯实新学到的内容，让自己的能力圈像滚雪球一样越滚越大。
 
-
-
-{:.center}![舒适区、学习区、恐慌区](https://img3.doubanio.com/view/note/large/public/p87099358-1.jpg)
+![舒适区、学习区、恐慌区](https://img3.doubanio.com/view/note/large/public/p87099358-1.jpg)
 > 由美国人Noel Tichy提出的理论，图里的3个区可以表示为你想学习的事物的等级：
 > 
 > 最里面一圈，“舒适区”， 对于你来说是没有学习难度的知识或者习以为常的事务，自己可以处于舒适心理状态。 
@@ -63,5 +61,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzEzMDQzNCwtMTYzNTU2MDE4MV19
+eyJoaXN0b3J5IjpbNDg1MDA4Mzc5LC0xNjM1NTYwMTgxXX0=
 -->
