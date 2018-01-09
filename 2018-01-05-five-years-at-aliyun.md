@@ -22,7 +22,7 @@
 
 现在回想起这段日子，那种「每天都在成长」的感觉依然历历在目，我将其归功于三个方面的原因。
 
-首先是**环境**。我们先来了解一下「舒适区、学习区、恐慌区」的li
+首先是**环境**。我们先来了解一下「舒适区、学习区、恐慌区」的理论。
 
 其次是**信息获取能力**。
 
@@ -71,6 +71,6 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg1MjE4OTEsLTE2MzU1NjAxODFdfQ
+eyJoaXN0b3J5IjpbLTIxNDU2NDk0ODIsLTE2MzU1NjAxODFdfQ
 ==
 -->
