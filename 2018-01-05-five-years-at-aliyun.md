@@ -20,9 +20,9 @@
  * 不了解分布式系统的技术难点、为什么当前如此架构，就找资深的工程师讨教，找到信息的源头，参照自己所处的阶段，逐步补齐知识性的缺口。
  * ......
 
-现在回想起这段日子，那种「每天都在成长」的感觉依然历历在目，我将其归功于三个方面的原因。
+现在回想起这段日子，那种「每天都在成长」的感觉依然历历在目，我将其归功于内外两个方面的原因。
 
-在介绍原因之前，让我们先来了解一下「舒适区、学习区、恐慌区」的理论。
+在介绍原因之前，让我们先来了解一下「舒适区、学习区、恐慌区」的概念。
 
 > 转自：https://www.douban.com/note/87099358/
 > ![舒适区、学习区、恐慌区](https://img3.doubanio.com/view/note/large/public/p87099358-1.jpg)
@@ -75,5 +75,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzg0MzcxNiwtMTYzNTU2MDE4MV19
+eyJoaXN0b3J5IjpbMTk0OTczNzE2NSwtMTYzNTU2MDE4MV19
 -->
