@@ -26,7 +26,7 @@
 
 其二是**信息获取能力**。
 
-其三是**xu
+其三是**学习能力**。
 
 环境、信息获取、学习能力
 
@@ -71,6 +71,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMwNjY2NzIsLTE2MzU1NjAxODFdfQ
-==
+eyJoaXN0b3J5IjpbNjUzMTk1ODYzLC0xNjM1NTYwMTgxXX0=
 -->
