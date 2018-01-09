@@ -39,7 +39,6 @@
 
 # 熟练工的迷茫
 
->  午夜梦醒，不知身处何处
 
 随着遇到的问题越来越多，解决掉的问题也越来越多，渐渐地，自己已经从新手村毕业。出了新手村，面对着无休止的 NPC 任务和枯燥的打怪升级，自己慢慢地沦为了机械的熟练工，每天的工作只是重复。
 
@@ -63,5 +62,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxMzAwMTc1LC0xNjM1NTYwMTgxXX0=
+eyJoaXN0b3J5IjpbMTc5MjgwODQzMSwtMTYzNTU2MDE4MV19
 -->
