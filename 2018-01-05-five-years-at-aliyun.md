@@ -22,6 +22,8 @@
 
 现在回想起这段日子，那种「每天都在成长」的感觉依然历历在目，
 
+环境、信息获取、学习能力
+
 总之，就是利用多年积累的信息获取和学习能力，依赖大学期间扎实的计算机理论基础和专业知识，实现快速学习。在工作中，逢山开路、遇水架桥，以自身可以感受到的进化速度快速迭代，与此同时，夯实新学到的内容，让自己的能力圈像滚雪球一样越滚越大。
 
 > 转自：https://www.douban.com/note/87099358/
@@ -63,5 +65,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzI1MDU0MCwtMTYzNTU2MDE4MV19
+eyJoaXN0b3J5IjpbLTk2NjM5NjI3MywtMTYzNTU2MDE4MV19
 -->
