@@ -37,7 +37,7 @@
 > 
 > 对于一个人来说，最理想的状态是处于“学习区”，学习具有适当挑战性的东西， 一段时间后，“学习区”会慢慢变为“舒适区”， “舒适区”越变越大， 而一部分的“恐慌区” 也会相应变成“学习区”。
 
-我之所以能处于高速成长的状态，与所处的环境mibuk
+我之所以能处于高速成长的状态，与所处的环境密不可分。
 
 其次是**信息获取能力**。
 
@@ -75,6 +75,6 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY0Mjc1OTYsLTE2MzU1NjAxODFdfQ
+eyJoaXN0b3J5IjpbLTE0NDQ4OTYwMzYsLTE2MzU1NjAxODFdfQ
 ==
 -->
