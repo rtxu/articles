@@ -43,8 +43,6 @@
 
 最后是**学习能力**。
 
-环境、信息获取、学习能力
-
 总之，就是利用多年积累的信息获取和学习能力，依赖大学期间扎实的计算机理论基础和专业知识，实现快速学习。在工作中，逢山开路、遇水架桥，以自身可以感受到的进化速度快速迭代，与此同时，夯实新学到的内容，让自己的能力圈像滚雪球一样越滚越大。
 
 
@@ -75,5 +73,5 @@ huangshuo 的晋升 PPT
 jw 的人设
 ## 从依赖到独立
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTczNzE2NSwtMTYzNTU2MDE4MV19
+eyJoaXN0b3J5IjpbLTkzNzEwOTQsLTE2MzU1NjAxODFdfQ==
 -->
